@@ -8,7 +8,6 @@ from ui import main
 
 
 
-
 class Main(main.Ui_MainWindow, QtWidgets.QMainWindow):
     def __init__(self):
         super().__init__()
